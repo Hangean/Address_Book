@@ -1,0 +1,5 @@
+id,type,name,phone,email,street,city,state,zipCode,group,tags,companyName,jobTitle,department,serviceType,accountNumber,relationship,birthday,emergencyPriority,notes
+1,Person,Loaded Parent,555-0100,parent@example.com,10 Oak St,Irvine,CA,92612,Family,Important;Friend,,,,,,Parent,05/10,,Loaded from CSV file
+2,Business,Loaded Bank,555-0200,service@loadedbank.com,20 Market St,Tustin,CA,92780,Work,Client,Loaded Bank,Account Manager,Customer Support,,ACCT-100,,,,Business loaded from CSV file
+3,Vendor,Loaded Electric,555-0300,service@loadedelectric.com,30 Vendor Ave,Irvine,CA,92614,Vendors,Service;Important,Loaded Electric LLC,,,Electrical Repair,VEN-300,,,,Vendor loaded from CSV file
+4,Emergency,Loaded Police,911,,40 Safety Blvd,Irvine,CA,92618,Emergency,Important,,,,Emergency Services,,Public Safety,,High,Emergency loaded from CSV file with missing email
